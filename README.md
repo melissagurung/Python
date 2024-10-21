@@ -42,14 +42,16 @@ This project is a Python-based Virtual Assistant capable of performing various t
 
 ## Usage
 
-- You can interact with the virtual assistant either by speaking or typing into the input field.
-- The assistant will respond with voice and text in the GUI.
-- To shut down the assistant, simply say or type "Shut down."
+```bash
+|-- You can interact with the virtual assistant either by speaking or typing into the input field.
+|-- The assistant will respond with voice and text in the GUI.
+|-- To shut down the assistant, simply say or type "Shut down."
 
 ## Future Improvements
 
-- Add more functionalities like setting reminders, sending emails, and playing music.
-- Improve the speech recognition accuracy by integrating advanced models.
-- Enhance the GUI with more features and a modern design.
+```bash
+|-- Add more functionalities like setting reminders, sending emails, and playing music.
+|-- Improve the speech recognition accuracy by integrating advanced models.
+|-- Enhance the GUI with more features and a modern design.
 
 
